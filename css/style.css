@@ -16,13 +16,13 @@ body {
 
 section {
     background-color: hsl(0, 0%, 100%);
-    width: 20%;
-    height: 55%;
+    width: 230px;
+    height: 360px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-self: center;
-    padding: 10px;
+    padding: 13px;
     border-radius: 15px;
 }
 
@@ -35,15 +35,15 @@ img {
 div {
     text-align: center;
     font-family: 'Outfit';
-    padding: 1.1em;
+    padding: 0.6em;
 }
 
 h2 {
-    font-size: 17px;
+    font-size: 16px;
 }
 
 p {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     color: rgb(87, 87, 87);
 }
