@@ -14,7 +14,7 @@ body {
     align-items: center;
 }
 
-section {
+main {
     background-color: hsl(0, 0%, 100%);
     width: 330px;
     height: 520px;
@@ -38,8 +38,10 @@ div {
     padding: 0.6em;
 }
 
-h2 {
+h1 {
     font-size: 25px;
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
 }
 
 p {
@@ -55,7 +57,7 @@ p {
         justify-content: center;
         align-items: center;
     }
-    section {
+    main {
         background-color: hsl(0, 0%, 100%);
         width: 80%;
         height: 62%;
